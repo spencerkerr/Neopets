@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\bin\Debug\HabiEggsVB.exe
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\bin\Debug\HabiEggsVB.pdb
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\bin\Debug\HabiEggsVB.xml
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\obj\Debug\HabiEggs.Form1.resources
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\obj\Debug\HabiEggs.Resources.resources
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\obj\Debug\HabiEggsVB.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\obj\Debug\HabiEggsVB.exe
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\obj\Debug\HabiEggsVB.xml
+C:\Users\user\Documents\Home\Neopets\HabiEggsVB\HabiEggsVB\obj\Debug\HabiEggsVB.pdb

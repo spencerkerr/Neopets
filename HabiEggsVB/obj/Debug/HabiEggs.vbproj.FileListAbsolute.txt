@@ -1,0 +1,10 @@
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\bin\Debug\HabiEggs.exe
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\bin\Debug\HabiEggs.pdb
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\bin\Debug\HabiEggs.xml
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\obj\Debug\HabiEggs.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\obj\Debug\HabiEggs.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\obj\Debug\HabiEggs.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\obj\Debug\HabiEggs.exe
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\obj\Debug\HabiEggs.xml
+C:\Users\user\AppData\Local\Temporary Projects\HabiEggs\obj\Debug\HabiEggs.pdb
