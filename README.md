@@ -1,4 +1,4 @@
-Neopets
+Neopets Tracker
 =======
 
 Small Visual Basic program to track the number of habitarium eggs stored in the bag 
