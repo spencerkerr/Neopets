@@ -5,7 +5,7 @@
     Dim CODE_FILE As String = "C:\Users\user\Documents\Home\Neopets\Codestones.txt"
     Dim eggsString() As String
     Dim eggs(9) As Integer
-    Dim codestones(6) As Integer
+    Dim codestones(12) As Integer
 
 
 
@@ -126,6 +126,12 @@
         Kew.Text() = codestones(3)
         Sho.Text() = codestones(4)
         Zed.Text() = codestones(5)
+        MagC.Text() = codestones(6)
+        VuxC.Text() = codestones(7)
+        CuiC.Text() = codestones(8)
+        KewC.Text() = codestones(9)
+        ShoC.Text() = codestones(10)
+        ZedC.Text() = codestones(11)
         SaveCodes()
     End Sub
 
@@ -224,5 +230,35 @@
             Stone.Text() = 3000 * Nests.Value()
         End If
 
+    End Sub
+
+    Private Sub MagC_ValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MagC.ValueChanged
+        codestones(6) = MagC.Value
+        updateCodeTextBoxes()
+    End Sub
+
+    Private Sub VuxC_ValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles VuxC.ValueChanged
+        codestones(7) = VuxC.Value
+        updateCodeTextBoxes()
+    End Sub
+
+    Private Sub CuiC_ValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CuiC.ValueChanged
+        codestones(8) = CuiC.Value
+        updateCodeTextBoxes()
+    End Sub
+
+    Private Sub KewC_ValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles KewC.ValueChanged
+        codestones(9) = KewC.Value
+        updateCodeTextBoxes()
+    End Sub
+
+    Private Sub ShoC_ValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ShoC.ValueChanged
+        codestones(10) = ShoC.Value
+        updateCodeTextBoxes()
+    End Sub
+
+    Private Sub ZedC_ValueChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ZedC.ValueChanged
+        codestones(11) = ZedC.Value
+        updateCodeTextBoxes()
     End Sub
 End Class
