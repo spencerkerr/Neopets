@@ -4,6 +4,7 @@ Neopets Tracker
 Small Visual Basic program to track the number of habitarium eggs stored in the bag 
 as well as the number of red codestones in my SDB.
 Added calculator for the resources it takes to dump a number of nests in Habitarium.
+Added price values to codestones to track the regular price of codestones on the SW.
 
 Might add more things to it eventually.
 
@@ -12,6 +13,8 @@ Written June 2014. (Habitarium eggs tracker)
 Edit 1 : July 2014. (Red codestones tab)
 
 Edit 2: Aug 2014. (Nest Dumping Calculator)
+
+Edit 3: 18 Aug 2014 (Red Codestone price tracker)
 
 To edit:
 
