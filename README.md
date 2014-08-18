@@ -34,6 +34,6 @@ To use:
 
           and "C:\Users\user\Documents\Home\Neopets\Codestones.txt"
           
-          with 9 and 8 numbers seperated by commas (respectively)
+          with 9 and 16 numbers seperated by commas (respectively)
 
 3. Run Neopets / HabiEggsVB / bin / Debug / HabiEggsVB.exe
