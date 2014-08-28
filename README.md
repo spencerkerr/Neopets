@@ -28,7 +28,7 @@ To edit:
 
 To use:
 
-1. Download files
+1. Download files (Download zip on right---->)
 
 2. Make files "C:\Users\user\Documents\Home\Neopets\HabiEggs.txt"
 
