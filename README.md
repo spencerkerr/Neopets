@@ -4,6 +4,7 @@ Neopets Tracker
 Small Visual Basic program to track the number of habitarium eggs stored in the bag 
 as well as the number of red codestones in my SDB.
 Added calculator for the resources it takes to dump a number of nests in Habitarium.
+Added price values to codestones to track the regular price of codestones on the SW.
 
 Might add more things to it eventually.
 
@@ -12,6 +13,8 @@ Written June 2014. (Habitarium eggs tracker)
 Edit 1 : July 2014. (Red codestones tab)
 
 Edit 2: Aug 2014. (Nest Dumping Calculator)
+
+Edit 3: 18 Aug 2014 (Red Codestone price tracker)
 
 To edit:
 
@@ -25,12 +28,12 @@ To edit:
 
 To use:
 
-1. Download files
+1. Download files (Download zip on right---->)
 
 2. Make files "C:\Users\user\Documents\Home\Neopets\HabiEggs.txt"
 
           and "C:\Users\user\Documents\Home\Neopets\Codestones.txt"
           
-          with 9 and 8 numbers seperated by commas (respectively)
+          with 9 and 16 numbers seperated by commas (respectively)
 
 3. Run Neopets / HabiEggsVB / bin / Debug / HabiEggsVB.exe
