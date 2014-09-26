@@ -132,6 +132,8 @@
         KewC.Text() = codestones(9)
         ShoC.Text() = codestones(10)
         ZedC.Text() = codestones(11)
+        TotalCount.Text() = (codestones(0) + codestones(1) + codestones(2) + codestones(3) + codestones(4) + codestones(5))
+        TotalCost.Text() = (codestones(0) * codestones(6) + codestones(1) * codestones(7) + codestones(2) * codestones(8) + codestones(3) * codestones(9) + codestones(4) * codestones(10) + codestones(5) * codestones(11))
         SaveCodes()
     End Sub
 
