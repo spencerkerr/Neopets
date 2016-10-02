@@ -1,8 +1,11 @@
 Neopets Tracker
 =======
 
-Small Visual Basic program to track the number of habitarium eggs stored in the bag 
+Neopets Tracker is a Simple Visual Basic program that tracks the number of habitarium eggs stored in the bag 
 as well as the number of red codestones in my SDB.
+
+Updates:
+
 Added calculator for the resources it takes to dump a number of nests in Habitarium.
 Added price values to codestones to track the regular price of codestones on the SW.
 
